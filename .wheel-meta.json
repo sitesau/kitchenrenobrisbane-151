@@ -1,0 +1,22 @@
+{
+  "wheel_id": 544,
+  "structure": "umbrella",
+  "slug": "kitchenrenobrisbane-151",
+  "project": "kitchen-renovations-brisbane-ccb532dc8d2628340308357e4470bd667e",
+  "parent_t1_ref": "kitchenrenobrisbane-011",
+  "node_role": "buffer",
+  "money_target": "kitchenrenobrisbane.com.au",
+  "primary_kw": "kitchen renovations brisbane",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-brisbane-ccb532dc8d2628340308357e4470bd667e/",
+  "tier": "T2",
+  "writeback_nonce": "694bc2be38a955db",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/kitchen-renovations-brisbane-011/",
+      "anchor": "Kitchen Renovations Brisbane: Practical Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
